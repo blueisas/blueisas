@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Oi, eu sou a Ana Luisa! ☁️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B5A7E8&center=true&vCenter=true&width=480&lines=Estudante+de+tecnologia+%F0%9F%92%BB;Apaixonada+por+c%C3%B3digo+e+blockchain+%F0%9F%94%97;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B5A7E8&center=true&vCenter=true&width=480&lines=Estudante+de+tecnologia+%F0%9F%92%BB;Apaixonada+por+c%C3%B3digo%F0%9F%94%97;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
