@@ -31,12 +31,3 @@
   <img src="https://streak-stats.demolab.com?user=blueisas&background=FFF5F8&border=E8D5F2&stroke=B5A7E8&ring=F7A8C8&fire=F7A8C8&currStreakLabel=7B6B9E&sideLabels=7B6B9E&currStreakNum=7B6B9E&sideNums=7B6B9E&dates=A89BC9" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blueisas&theme=onedark&no-frame=true&no-bg=true&column=7" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer" />
-</p>
