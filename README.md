@@ -12,8 +12,6 @@
   <img src="./langs.svg" alt="Linguagens" />
 </p>
 
-<p align="center"><sub>Atualizado automaticamente todo dia via GitHub Actions.</sub></p>
-
 ---
 
 ### 🚀 Pelo que eu me apaixono
